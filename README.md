@@ -8,6 +8,7 @@
 
 - [Specification](#specification)
 - [Technical Articles](#technical-articles)
+- [Videos](#videos)
 
 ## Specification
 
@@ -16,5 +17,10 @@
 
 ## Technical Articles
 
- - [MDN Web Workers API](https://developer.mozilla.org/en-US/docs/Web/API/Web_Workers_API)
- - [MDN Using Web Workers](https://developer.mozilla.org/en-US/docs/Web/API/Web_Workers_API/Using_web_workers)
+[MDN Web Workers API](https://developer.mozilla.org/en-US/docs/Web/API/Web_Workers_API)
+
+[MDN Using Web Workers](https://developer.mozilla.org/en-US/docs/Web/API/Web_Workers_API/Using_web_workers)
+
+## Videos
+
+[Using Web Workers for more responsive apps](https://www.youtube.com/watch?v=Kz_zKXiNGSE) (Jason Teplitz - Oct 21, 2015)
