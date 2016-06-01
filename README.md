@@ -2,6 +2,8 @@
 
 > An awesome list about Web Workers
 
+> Web Workers provide a simple means for web content to run scripts in background threads. The worker thread can perform tasks without interfering with the user interface.
+
 ## Table of Contents
 
 - [Specification](#specification)
