@@ -4,6 +4,8 @@
 
 > Web Workers provide a simple means for web content to run scripts in background threads. The worker thread can perform tasks without interfering with the user interface.
 
+["Can I use" Table](http://caniuse.com/#feat=webworkers)
+
 ## Table of Contents
 
 - [Specification](#specification)
@@ -17,9 +19,11 @@
 
 ## Technical Articles
 
-[MDN Web Workers API](https://developer.mozilla.org/en-US/docs/Web/API/Web_Workers_API)
+[MDN - Web Workers API](https://developer.mozilla.org/en-US/docs/Web/API/Web_Workers_API)
 
-[MDN Using Web Workers](https://developer.mozilla.org/en-US/docs/Web/API/Web_Workers_API/Using_web_workers)
+[MDN - Using Web Workers](https://developer.mozilla.org/en-US/docs/Web/API/Web_Workers_API/Using_web_workers)
+
+[The Basics of Web Workers](http://www.html5rocks.com/en/tutorials/workers/basics/) (Eric Bidelman - Jul 26, 2010)
 
 ## Videos
 
