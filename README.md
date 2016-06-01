@@ -7,10 +7,14 @@
 ## Table of Contents
 
 - [Specification](#specification)
+- [Technical Articles](#technical-articles)
 
 ## Specification
 
 [WHATWG HTML Living Standard](https://html.spec.whatwg.org/multipage/#toc-workers)
 > This specification defines an API for running scripts in the background independently of any user interface scripts.
 
+## Technical Articles
 
+ - [MDN Web Workers API](https://developer.mozilla.org/en-US/docs/Web/API/Web_Workers_API)
+ - [MDN Using Web Workers](https://developer.mozilla.org/en-US/docs/Web/API/Web_Workers_API/Using_web_workers)
