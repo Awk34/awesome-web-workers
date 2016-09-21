@@ -10,6 +10,7 @@
 
 - [Specification](#specification)
 - [Technical Articles](#technical-articles)
+- [Javascript Libraries](#javascript-libraries)
 - [Videos](#videos)
 
 ## Specification
@@ -24,6 +25,14 @@
 [MDN - Using Web Workers](https://developer.mozilla.org/en-US/docs/Web/API/Web_Workers_API/Using_web_workers)
 
 [The Basics of Web Workers](http://www.html5rocks.com/en/tutorials/workers/basics/) (Eric Bidelman - Jul 26, 2010)
+
+
+## Javascript Libraries
+
+[Catiline.js](https://github.com/calvinmetcalf/catiline) - A JavaScript Library for workers.
+
+[Parallel.js](https://github.com/adambom/parallel.js) - Library for multi-core processing in Javascript. 
+
 
 ## Videos
 
